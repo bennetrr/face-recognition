@@ -1,0 +1,3 @@
+# FaceRecognition
+This script can detect and recognize faces in pictures.
+More instructions may follow...
